@@ -43,9 +43,16 @@ At present, there are actually many tools for asset scanning, fingerprint identi
 ### go version go1.16.10
 
 *clone project source code
+original source:
 ~~~
 git clone https://github.com/lcvvvv/kscan
 ~~~
+
+english version:
+~~~
+git clone https://github.com/alfazzafashion/kscan
+~~~
+
 *enter the project directory
 ~~~
 cd kscan
