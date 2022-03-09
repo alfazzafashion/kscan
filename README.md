@@ -1,7 +1,7 @@
 # Kscan - Simple Asset Mapping Tool
-<a href="https://github.com/lcvvvv/kscan"><img alt="Release" src="https://img.shields.io/badge/golang-1.6+-9cf"></a a>
-<a href="https://github.com/lcvvvv/kscan"><img alt="Release" src="https://img.shields.io/badge/kscan-1.62-ff69b4"></a >
-<a href="https://github.com/lcvvvv/kscan"><img alt="Release" src="https://img.shields.io/badge/LICENSE-GPL-important"></a >
+<a href="https://github.com/lcvvvv/kscan"><img alt="Release" src="https://img.shields.io/badge/golang-1.6+-9cf"></a>
+<a href="https://github.com/lcvvvv/kscan"><img alt="Release" src="https://img.shields.io/badge/kscan-1.62-ff69b4"></a>
+<a href="https://github.com/lcvvvv/kscan"><img alt="Release" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/lcvvvv/kscan?color=success)
 ![GitHub forks](https://img.shields.io/github/forks/lcvvvv/kscan)
 ![GitHub all release](https://img.shields.io/github/downloads/lcvvvv/kscan/total?color=blueviolet)
